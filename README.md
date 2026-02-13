@@ -1,6 +1,6 @@
 # TelePrint-A4 📄🚀
 
-TelePrint-A4 is a Python-based automation tool designed to archive Telegram channel history into a print-ready PDF format. Unlike standard screenshots, this tool automatically scrolls through a channel, captures the window, and arranges the content into a **2x2 grid on standard A4 pages** to save paper and mimic a mobile reading experience.
+TelePrint-A4 is a Python-based automation tool designed to archive Telegram channel or group history into a print-ready PDF format. Unlike standard screenshots, this tool automatically scrolls through a channel, captures the window, and arranges the content into a **2x2 grid on standard A4 pages** to save paper and mimic a mobile reading experience.
 
 ## ✨ Features
 * **Smart Window Detection:** Automatically locks onto the active Telegram window after a 5-second countdown.
