@@ -41,4 +41,4 @@ SCROLL_DELAY: 1.0 — Seconds to wait for content to load/render after scrolling
 
 
 ## 📸 Output Example
-![PDF Grid Example](demo_grid.png)
+![PDF Grid Example](screenshots.jpg)
