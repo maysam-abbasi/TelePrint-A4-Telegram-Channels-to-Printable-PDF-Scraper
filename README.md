@@ -15,3 +15,25 @@ TelePrint-A4 is a Python-based automation tool designed to archive Telegram chan
    ```bash
    git clone [https://github.com/maysam-abbasi/TelePrint-A4.git](https://github.com/maysam-abbasi/TelePrint-A4.git)
    cd TelePrint-A4
+
+Install dependencies:
+
+Bash
+pip install pyautogui pillow pygetwindow
+🚀 How to Use
+Open your Telegram Desktop app and navigate to the desired channel.
+
+Run the script: python main.py.
+
+You have 5 seconds to click on the Telegram window to make it active.
+
+The script will handle the rest! Your final PDF will be saved to a Telegram_Screenshots folder on your Desktop.
+
+⚙️ Configuration
+You can easily adjust the following variables in the script:
+
+NUM_SCREENSHOTS: How many pages of content to capture.
+
+SCROLL_AMOUNT: How much to scroll between captures.
+
+SCROLL_DELAY: Seconds to wait for images to load after scrolling.
