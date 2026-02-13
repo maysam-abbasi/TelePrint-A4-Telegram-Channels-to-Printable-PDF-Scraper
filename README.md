@@ -13,5 +13,5 @@ TelePrint-A4 is a Python-based automation tool designed to archive Telegram chan
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/TelePrint-A4.git](https://github.com/YOUR_USERNAME/TelePrint-A4.git)
+   git clone [https://github.com/maysam-abbasi/TelePrint-A4.git](https://github.com/maysam-abbasi/TelePrint-A4.git)
    cd TelePrint-A4
