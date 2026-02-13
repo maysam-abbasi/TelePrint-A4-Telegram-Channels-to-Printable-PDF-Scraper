@@ -38,3 +38,7 @@ NUM_SCREENSHOTS: 10 — Total number of images to capture.
 SCROLL_AMOUNT: -14 — How many "clicks" to scroll per step (Negative = Down).
 
 SCROLL_DELAY: 1.0 — Seconds to wait for content to load/render after scrolling.
+
+
+## 📸 Output Example
+![PDF Grid Example](demo_grid.png)
